@@ -160,8 +160,8 @@ containing a value of this type.
         public static final int from_tv=0x7f090002;
         public static final int name_tv=0x7f09000b;
         public static final int search_btn=0x7f09000c;
-        public static final int time_ll=0x7f090008;
-        public static final int time_tv=0x7f090009;
+        public static final int time_tv=0x7f090008;
+        public static final int time_way_divider=0x7f090009;
         public static final int to_et=0x7f090007;
         public static final int to_rl=0x7f090005;
         public static final int to_tv=0x7f090006;
